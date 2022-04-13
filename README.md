@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems whose effects i can observe
 - 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on backend programming and logic building excercises
-- 📫 How to reach me shebang.arjun@gmaail.com
+- 📫 How to reach me shebang.arjun@gmail.com
 
 <!---
 ParthPatel2000/ParthPatel2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
