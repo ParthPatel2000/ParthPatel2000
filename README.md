@@ -1,3 +1,4 @@
+- Portfolio: https://parthpatel2000.github.io/react_playground/#/
 - 👋 Hi, I’m @ParthPatel2000
 - Currently a Masters Student at NAU
 - 📫 How to reach me pp594@nau.edu
