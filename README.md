@@ -61,7 +61,7 @@ If a system is slow, manual, or annoying - I make it fast, simple, and enjoyable
 
 ## 💻 Tech Stack  
 **Frontend:** React, HTML/CSS, JavaScript, Chrome Extension APIs  
-**Backend:** Firebase, Node.js, REST APIs  
+**Backend:** Firebase, Python, C/C++, Node.js, REST APIs.  
 **Automation:** Browser automation, DOM scripting, workflow enhancement  
 **Systems:** Choice Advantage integrations, hospitality software tooling  
 
@@ -69,7 +69,7 @@ If a system is slow, manual, or annoying - I make it fast, simple, and enjoyable
 
 ## 📫 Contact  
 If you're looking for automation, custom Chrome extensions, or major workflow upgrades - I’m open to building tools tailored to your needs.
-
+reach me at: parth472k@gmail.com
 ---
 
 Thanks for visiting! 🚀
